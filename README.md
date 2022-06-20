@@ -1,2 +1,2 @@
 # Testeo
-Pruebo boludeces
+Practicas del curso fullstack del itba
